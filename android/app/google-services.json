@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286293043767",
+    "project_id": "astra-learning-platform-6e176",
+    "storage_bucket": "astra-learning-platform-6e176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286293043767:android:f368a5881cbd1aaa9cadb2",
+        "android_client_info": {
+          "package_name": "com.example.astra_learning_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286293043767-9qqq3aa1ole86mhq325doa2rn5ncobqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astra_learning_1",
+            "certificate_hash": "374887d153648f35ad6734e3b1b2fc93bbc91eb6"
+          }
+        },
+        {
+          "client_id": "286293043767-hepto4fh99qrdb3t4j8sp6634pp4864q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLxPGF1f_ffqZHis-9AwssFNVpvEDpYEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286293043767-hepto4fh99qrdb3t4j8sp6634pp4864q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
